@@ -1,0 +1,15 @@
+Scratch games
+1.About yourself – using changing costumes, back-ground, sound and say blocks
+2.Bouncing a ball, paddle game and extending it to ping-pong game
+3.Calculation race - Use of pick random block - picking a random number for use in calculation script.
+4.Create a maze game – treasure hunt
+5.Geometric shapes – spider web. Extend it to use blocks
+6.Using x-y co-ordinates , moving a sprite from any y position on the left to the right.  Tappity- tap game – extend it to use explosion and clones 
+7.Dodge ball game, star hunter game, shooter  
+8.Circle wars, soccer-cat,whack a mole
+9.Story boarding
+10.Run and jump – Space run , obstacle course
+11.Throwing bananas, bouncing melons, catching apples
+12.Pen block –  writing on stage. Turtle graphics
+13.Triangle classification, area calculator for basic shapes
+14.Using lists, Tic tac toe
