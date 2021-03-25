@@ -1,1 +1,1 @@
-Some outlines for scratch, html-jvscrpt, python, R 
+Some files in .py, .html from the codingmagics centre
